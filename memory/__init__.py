@@ -1,0 +1,1 @@
+"""Memory package: long-term profile store + short-term conversation checkpoints."""
