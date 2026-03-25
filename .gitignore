@@ -1,0 +1,17 @@
+# Environments
+.env
+__pycache__/
+*.pyc
+venv/
+env/
+.venv/
+
+# Databases and Vector Stores
+*.db
+*.sqlite3
+chroma_db/
+checkpoints.db
+agent_memory.db
+
+# OS Files
+.DS_Store
